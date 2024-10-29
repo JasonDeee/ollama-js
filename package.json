@@ -47,6 +47,7 @@
     "unbuild": "^2.0.0"
   },
   "dependencies": {
+    "ollama": "^0.5.9",
     "whatwg-fetch": "^3.6.20"
   }
 }
